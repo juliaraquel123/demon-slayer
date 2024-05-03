@@ -71,7 +71,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 
 footer{ /*caracteristicas do rodape*/
-    background-color: black;
+    background-color: #ff008c(3, 0, 2);
     padding: 10px 0;
     text-align: center;
 }
