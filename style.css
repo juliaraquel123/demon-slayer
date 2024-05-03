@@ -40,7 +40,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 .escola{ /*classe escola no HTML*/
     background-image: linear-gradient(#ff008c, #ff008c); /*imagem de fundo*/
-    color: white;
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center; /*alinhamento dos elementos: centro*/
