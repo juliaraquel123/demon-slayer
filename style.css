@@ -13,7 +13,7 @@ body{ /*fonte utilizada em todo texto da página*/
     /*padding: 18px 40px;*/
 }
 .cabecalho{ /*classe cabecalho no HTML*/
-    background-color: #383d58; 
+    background-color: #ff008c; 
     color: white;
     display: flex; /*organiza os elementos lado a lado, só muda de linha se ocupar todo o espaço*/
     justify-content: space-around; /*justifica o conteúdo, space-around=espaço ao redor, cria margens iguais entre os elementos da linha*/
@@ -27,7 +27,7 @@ body{ /*fonte utilizada em todo texto da página*/
 
 }
 .cabecalho-lista-item li:hover{ /*cor que muda quando passa o mouse em cima do Estudantes e Escola*/
-    color:aquamarine;
+    color:rgb(247, 80, 158);
 }
 *{ /* *define para todo documento HTML as propriedades que forem adicionadas a ele. Neste caso, adicionaremos o valor 0 para margin e padding*/
     margin: 0;
